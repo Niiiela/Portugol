@@ -31,8 +31,13 @@ programa
 
 			caso contrario:
 			escreva ("\n" + "Você deve escolher uma das opções: 1, 2, 3 ou 4")
-		}
+			pare
+			
 		
+		}
+		escreva ("\n" + "Sua escolha:")
+		leia (Menu)
+
 }
 
 }
